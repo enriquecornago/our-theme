@@ -1,4 +1,4 @@
-# Willsong Ghost Theme Changelog
+# Our Them Changelog
 
 ## Version 1.2.0
 - Author.hbs template added for Ghost 0.5
@@ -19,5 +19,9 @@
 ## Version 1.0.1
 - Animations removed for the author and comments area in the post. Didn't work as expected.
 
-## Version 1.0
-- First release
+## Version 0.0.4
+- Added Contact Us page to menu
+- Added Facebook Page
+- Added Disqus account
+- Added Changelog
+- Minor updates all round
